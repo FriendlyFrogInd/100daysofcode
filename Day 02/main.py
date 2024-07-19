@@ -44,5 +44,6 @@ Mathematical operation :
   -> divisions
   -> addition 
   -> subtraction 
-  
+
+#the floor division operator is denoted by the "//" symbol
   
